@@ -1,8 +1,6 @@
 <p align="center">
   <img src="Code.png" alt="Banner">
 </p>
-
-
 <h1 align="center">Hi 👋, I'm Janko Mitrovic</h1>
 <h3 align="center">Passionate obout AI, ML, DeepLearning</h3>
 <img align="right" alt="Coding" width="400" src="http://www.animated-gifs.fr/category_war/ninjas/64728481.gif">
