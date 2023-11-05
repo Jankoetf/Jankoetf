@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning A-Z™ - Udemy Course**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> jankomitrovicetf@gmail.com
 <p align="left">
 </p>
 
