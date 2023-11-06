@@ -5,7 +5,7 @@
 <h3 align="center">Passionate obout AI, ML, DeepLearning</h3>
 <img align="right" alt="Coding" width="400" src="http://www.animated-gifs.fr/category_war/ninjas/64728481.gif">
 
-- 🔭 I’m currently in my last year of Electical engineering in Belgrade
+- 🔭 I’m currently in my last year of **Electical engineering in Belgrade**
 
 - 🌱 I’m currently learning **Machine Learning A-Z™ - Udemy Course**
 
