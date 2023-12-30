@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Machine Learning A-Z™ - Udemy Course**
 
-- 📫 How to reach me **jankomitrovicetf@gmail.com**
+- 📫 How to reach me [Janko Mitrovic](https://www.linkedin.com/in/jankomitrovic/)
+
 
 
 <h3 align="left">Languages:</h3>
