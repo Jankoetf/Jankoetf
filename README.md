@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently in my last year of **Electical engineering in Belgrade**
 
-- 🌱 I’m currently learning **Machine Learning A-Z™ - Udemy Course**
+- 🌱 I’m currently learning **Bayesian Machine Learning in Python: A/B Testing
+™ - Udemy Course**
 
 - 📫 You can reach me on **LinkedIn**: [Janko Mitrovic](https://www.linkedin.com/in/jankomitrovic/)
 
