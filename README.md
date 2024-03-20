@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently in my last year of **Electical engineering in Belgrade**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **React**
 
 - 📫 You can reach me on **LinkedIn**: [Janko Mitrovic](https://www.linkedin.com/in/jankomitrovic/)
 
