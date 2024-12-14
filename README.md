@@ -5,9 +5,9 @@
 <h3 align="center">Passionate obout AI, ML, Data Science</h3>
 <img align="right" alt="Coding" width="400" src="http://www.animated-gifs.fr/category_war/ninjas/64728481.gif">
 
-- 🔭 I’m currently in my last year of **Electical engineering in Belgrade**
+- 🔭 I’m currently pursuing my master's degree in Electrical Engineering in Belgrade**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working as a mathematician at Merkur Gaming
 
 - 📫 You can reach me on **LinkedIn**: [Janko Mitrovic](https://www.linkedin.com/in/jankomitrovic/)
 
